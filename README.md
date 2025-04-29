@@ -81,6 +81,8 @@ cybershield-ai/
    preds = model.predict(X_test)
    ```
 
+> 📦 Note: Model files (.pkl) are too large to be previewed directly on GitHub, but they are fully available for download and use.
+
 4.  Deploy the model using Flask API inside the `/app/` folder.(In progress)
 
 ## 📈 Future Improvements
